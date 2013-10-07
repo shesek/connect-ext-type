@@ -1,0 +1,28 @@
+{
+  "name": "connect-ext-type",
+  "version": "0.0.1",
+  "description": "Allow specifying the `Accept`ed content type as the file extension",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "coffee -c index.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shesek/connect-ext-type"
+  },
+  "keywords": [
+    "connect",
+    "extension",
+    "accept",
+    "content-type"
+  ],
+  "author": "Nadav Ivgi",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/shesek/connect-ext-type/issues"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "mocha": "~1.12.0"
+  }
+}
