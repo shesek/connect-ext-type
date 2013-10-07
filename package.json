@@ -1,7 +1,7 @@
 {
   "name": "connect-ext-type",
   "version": "0.0.1",
-  "description": "Allow specifying the `Accept`ed content type as the file extension",
+  "description": "Connect middleware to modify the Accept header based on the extension",
   "main": "index.js",
   "scripts": {
     "prepublish": "coffee -c index.coffee"
