@@ -17,7 +17,7 @@
     "content-type"
   ],
   "author": "Nadav Ivgi",
-  "license": "BSD",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shesek/connect-ext-type/issues"
   },

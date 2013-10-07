@@ -22,4 +22,6 @@ Then, requesting "/foo.txt" would return "Plain text response",
 and requesting "/foo.json" would return "{ json: 'response' }".
 
 
+## License
 
+MIT
