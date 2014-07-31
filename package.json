@@ -1,6 +1,6 @@
 {
   "name": "connect-ext-type",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Connect middleware to modify the Accept header based on the extension",
   "main": "index.js",
   "scripts": {
